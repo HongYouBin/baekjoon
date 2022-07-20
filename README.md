@@ -87,7 +87,7 @@ T의 끝자리가 A이면 pop back하면 되고
 100+a을 b개로 만들기 위해선 (100+a)-(b)번 반복
 
 
-##구현
+## 구현
 
 ### 14502번 연구소 https://www.acmicpc.net/problem/14502
 - https://github.com/HongYouBin/baekjoon/blob/master/14502.cpp
